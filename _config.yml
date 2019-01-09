@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Fellman"
-  avatar           :  "/images/bio.jpg"# path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "Data science portfolio"
   location         : "Finland"
   email            : "daniel.fellman@abo.fi"
