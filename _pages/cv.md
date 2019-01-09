@@ -4,4 +4,4 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 ---
-<img src="{{ site.url }}{{ site.baseurl }}/docs/cv.jpg" alt="Data visualizations">
+<img src="{{ site.url }}{{ site.baseurl }}/images/cv.jpg" alt="CV">
