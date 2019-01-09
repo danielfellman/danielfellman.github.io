@@ -17,7 +17,7 @@ And here's some *italics*
 
 Here's some **bold text**
 
-Here is a link [link](https://braintrain.fi)
+Here is a link [link](braintrain.fi)
 
 Here's a bulleted list
 * First item
