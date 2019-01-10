@@ -30,5 +30,5 @@ library(tidyverse)
 df <- read_csv("some_file.csv")
 head(df)
 ```
-
+Here is a link [link](www.braintrain.fi)
 <img src="{{ site.url }}{{ site.baseurl }}/images/plot.jpg" alt="Data visualizations">
