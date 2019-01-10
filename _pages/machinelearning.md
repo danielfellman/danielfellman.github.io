@@ -6,4 +6,6 @@ author_profile: true
 header:
   image: "/images/lektia2.jpg"
 ---
-Daniel Fellman
+Hello world
+
+Here is a [link](https://danielfellman.github.io/machine-learning/bayes)
