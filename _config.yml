@@ -105,7 +105,7 @@ analytics:
 author:
   name             : "Daniel Fellman"
   avatar           :  "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "I am a recently graduated PhD (Psychology), with a keen interest in predictive modeling"
+  bio              :  "I am a recently graduated PhD (Psychology), with a keen interest in predictive modeling."
   location         : "Finland"
   email            : "daniel.fellman@abo.fi"
   github           : "danielfellman"
