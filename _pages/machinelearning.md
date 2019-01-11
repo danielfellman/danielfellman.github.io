@@ -3,8 +3,6 @@ layout: archive
 permalink: /machine-learning/
 title: ""
 author_profile: true
-header:
-  image: "/images/lektia2.jpg"
 ---
 
 
