@@ -17,6 +17,10 @@ And here's some *italics*
 
 Here's some **bold text**
 
+Download the article:
+[https://github.com/danielwarna/braintrain/blob/gh-pages/Soveri_et_al_2017_Working_memory_training_revisited.pdf?raw=true](https://github.com/danielwarna/braintrain/blob/gh-pages/Soveri_et_al_2017_Working_memory_training_revisited.pdf?raw=true)
+
+
 Here is a link [link](braintrain.fi)
 
 Here's a bulleted list
