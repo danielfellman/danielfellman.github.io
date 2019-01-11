@@ -8,4 +8,4 @@ header:
 ---
 Hello world
 
-Here is a [link](https://danielfellman.github.io/machine-learning/bayes)
+# [Examining the effects of cognitive training using Bayesian statistics](https://danielfellman.github.io/machine-learning/bayes)
