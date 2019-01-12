@@ -38,4 +38,4 @@ Here is a link [link](www.braintrain.fi)
 <img src="{{ site.url }}{{ site.baseurl }}/images/plot.jpg" alt="Data visualizations">
 
 
-<i> daniel </i>
+<i> daniel </i> test
