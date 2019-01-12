@@ -36,3 +36,13 @@ head(df)
 ```
 Here is a link [link](www.braintrain.fi)
 <img src="{{ site.url }}{{ site.baseurl }}/images/plot.jpg" alt="Data visualizations">
+
+
+[{
+    name:  "Daniel Fellman",
+    title: "PhD student",
+    desc:  "I'm a doctoral student in the BrainTrain project. My research interests are: Verbal working memory, cognitive neuroscience, and psycholinguistics.",
+    mail:  "daniel.fellman(AT)abo.fi",
+    img : "/assets/images/daniel_fellman.jpg"
+},
+]
