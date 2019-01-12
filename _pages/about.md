@@ -1,8 +1,6 @@
 ---
 title: "About"
 permalink: /about/
-header:
-  image: "/images/lektia.jpg"
 ---
 
 I'm a post doctoral reseacher (PhD) at Åbo Akademi university. In my present research vacancy, I have been responsible for
