@@ -1,7 +1,7 @@
 ---
 layout: archive
-permalink: /machine-learning/
-title: ""
+permalink: /projects/
+title: "Projects"
 author_profile: true
 ---
 
