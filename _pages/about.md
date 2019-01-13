@@ -3,7 +3,7 @@ title: "About"
 permalink: /about/
 ---
 
-I'm a post doctoral reseacher (PhD) at Åbo Akademi university. In my present research vacancy, I have been responsible for
+I'm a post doctoral researcher (PhD) at Åbo Akademi university. In my present research vacancy, I have been responsible for
 totally five projects, each of them covering data manipulation in large-scale data sets, statistical modeling (e.g., predictive
 modeling using regression techniques), and reporting of the results in the form scientific publications.
 
