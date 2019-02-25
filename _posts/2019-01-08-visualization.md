@@ -5,10 +5,9 @@ tags: [R, data science]
 excerpt: ""
 ---
 <br>
-I will open my blog journey with a brief tutorial on how you can build a "shiny" app in R for visualizing relationships between variables.
+I will open my blog journey with a brief tutorial on how you can build a "shiny" app in R for visualizing relationships between variables. Before you start learning shiny I'd recommend you to take the ggplot2 courses offered in Datacamp [part 1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) and [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2), it will make this tutorial much more interpretable.
 
-Before you start learning shiny I'd recommend you to take the ggplot2 courses offered in Datacamp [part 1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) and [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2), it will make this tutorial muche more interpretable.
-
+### How to use shiny
 <br>
 Start with loading the required packages in R and your dataframe
 ```r
@@ -21,7 +20,7 @@ library(tidyverse)
 # Load dataframe
 df_wmc <- read.csv("df_wmc.csv")
 ```
-<br> 
+<br>
 Next, create an **ui** and a **server** part of your app.
 ```r
 # Define UI for application that plots features of movies
