@@ -5,38 +5,28 @@ tags: [R, data science]
 excerpt: "Data visualizations"
 ---
 
-I will open my blog journey with a brief tutorial on how you can use the "shiny" package in r for visualizing relationships between variables.
+I will open my blog journey with a brief tutorial on how you can build a "shiny" app in R for visualizing relationships between variables.
 
-Before you start learning shiny I'd recommend you to take the ggplot courses offered in Datacamp [part 1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) and [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2)
-
-## H2 Heading
-
-###H3 Heading
-
-Here's some basic text.
-
-And here's some *italics*
-
-Here's some **bold text**
+Before you start learning shiny I'd recommend you to take the ggplot2 courses offered in Datacamp [part 1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) and [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2).
 
 
 
-Here is a link [link](braintrain.fi)
+Start with loading the required packages in R and your dataframe
 
-Here's a bulleted list
-* First item
-+ Second item
-- Third item
 
-R code block:
 ```r
+# Libraries
 library(shiny)
 library(ggplot2)
 library(rsconnect)
 library(tidyverse)
 
-#load data
+# Load dataframe
 df_wmc <- read.csv("df_wmc.csv")
+```
+
+Next, you create an ´ui´ and a ´server´ part of your app
+```r
 # Define UI for application that plots features of movies
 ui <- fluidPage(
 
@@ -49,17 +39,29 @@ ui <- fluidPage(
       # Select variable for y-axis
       selectInput(inputId = "y",
                   label = "Y-axis:",
-                  choices = c("Ospan (correct sequences)" = "ospan_letter_list_correct", "ospan_math_correct_percent", "ospan_math_rt_mean",
-                              "digitspan_num_perfect", "digitspan_level", "cj_correct_easy", "cj_correct_hard",
-                              "cj_correct_sum"),
+                  choices = c("Ospan (correct sequences)" =
+                  "ospan_letter_list_correct",
+                  "ospan_math_correct_percent",
+                  "ospan_math_rt_mean",
+                  "digitspan_num_perfect",
+                  "digitspan_level",
+                  "cj_correct_easy",
+                  "cj_correct_hard",
+                  "cj_correct_sum"),
                   selected = "ospan_letter_list_correct"),
       # Select variable for x-axis
       selectInput(inputId = "x",
                   label = "X-axis:",
-                  choices = c("proportion_repetitions", "total_repetitions", "secs_spent", "mins_spent",
-                              "hours_spent", "days_spent", "mc_answer_norep_correct_percentage",
-                              "mc_answer_norep_incorrect_percentage", "mc_answer_rep_correct_percentage",
-                              "mc_answer_rep_incorrect_percentage"),
+                  choices = c("proportion_repetitions",
+                  "total_repetitions",
+                  "secs_spent",
+                  "mins_spent",
+                  "hours_spent",
+                  "days_spent",
+                  "mc_answer_norep_correct_percentage",
+                  "mc_answer_norep_incorrect_percentage",
+                  "mc_answer_rep_correct_percentage",
+                  "mc_answer_rep_incorrect_percentage"),
                   selected = "total_repetitions")
     ),
 
@@ -120,5 +122,5 @@ shinyApp(ui = ui, server = server)
 head(df)
 ```
 
-Here is a link [link](www.braintrain.fi)
-<img src="{{ site.url }}{{ site.baseurl }}/images/plot.jpg" alt="Data visualizations">
+### The results
+Here is a link to the final [app](https://dfellman.shinyapps.io/df_test/)
