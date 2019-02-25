@@ -9,7 +9,9 @@ I will open my blog journey with a brief tutorial on how you can build a "shiny"
 
 ### How to use shiny
 <br>
+<p>
 Start with loading the required packages in R and your dataframe.
+</p>
 ```r
 # Libraries
 library(shiny)
