@@ -2,12 +2,12 @@
 title: "Building interactive apps using shiny"
 date: "2018-01-08"
 tags: [R, data science]
-excerpt: "Data visualizations"
+excerpt: ""
 ---
 
 I will open my blog journey with a brief tutorial on how you can build a "shiny" app in R for visualizing relationships between variables.
 
-Before you start learning shiny I'd recommend you to take the ggplot2 courses offered in Datacamp [part 1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) and [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2).
+Before you start learning shiny I'd recommend you to take the ggplot2 courses offered in Datacamp [part 1](https://www.datacamp.com/courses/data-visualization-with-ggplot2-1) and [part 2](https://www.datacamp.com/courses/data-visualization-with-ggplot2-2), it will make this tutorial muche more interpretable.
 
 <br> <br>
 Start with loading the required packages in R and your dataframe
@@ -22,7 +22,7 @@ library(tidyverse)
 df_wmc <- read.csv("df_wmc.csv")
 ```
 <br> <br>
-Next, you create an ´ui´ and a ´server´ part of your app
+Next, you create the **ui** and a **server** part of your app.
 ```r
 # Define UI for application that plots features of movies
 ui <- fluidPage(
@@ -87,14 +87,14 @@ server <- function(input, output) {
             axis.text.x = element_text(size = 18))
   })
 ```
-
+<br> <br>
 
 You can also add some more specific statistical details in the app if you wish.
 In my case, I chose to add the correlation coefficient between x and y
 coupled with the means of the respective variable. Lastly, I
 added summary statistics of a linear regression between x and y (see the
 code below).
-r ´´´
+```r
   # Create text output stating the correlation between the two ploted
   output$correlation <- renderText({
     r <- round(cor(df_wmc[, input$x], df_wmc[, input$y], use = "pairwise"), 3)
@@ -123,13 +123,11 @@ r ´´´
 
 }
 
-# Create a Shiny app object
+# Create a shiny app object
 shinyApp(ui = ui, server = server)
 head(df)
 ```
+<br> <br>
 
-### The results
-Here is a link to the final [app](https://dfellman.shinyapps.io/df_test/)
-
-
-I hope you liked this tutorial.
+### Results
+Click on this [app](https://dfellman.shinyapps.io/df_test/) to see the final results.
