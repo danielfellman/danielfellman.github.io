@@ -1,5 +1,5 @@
 ---
-permalink: /machine-learning/bayes/
+permalink: /projects/bayes/
 title: "Bayes"
 ---
 
