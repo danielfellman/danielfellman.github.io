@@ -129,4 +129,4 @@ head(df)
 <br>
 
 ### Results
-Click on this [app](https://dfellman.shinyapps.io/df_test/) to see the final results.
+Click on this [link](https://dfellman.shinyapps.io/df_test/) to see the final results.
