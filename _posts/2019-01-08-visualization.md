@@ -1,5 +1,5 @@
 ---
-title: "Visualizing cognitive performance across time"
+title: "Building interactive apps using shiny"
 date: "2018-01-08"
 tags: [R, data science]
 excerpt: "Data visualizations"
@@ -12,8 +12,6 @@ Before you start learning shiny I'd recommend you to take the ggplot2 courses of
 
 
 Start with loading the required packages in R and your dataframe
-
-
 ```r
 # Libraries
 library(shiny)
@@ -24,6 +22,8 @@ library(tidyverse)
 # Load dataframe
 df_wmc <- read.csv("df_wmc.csv")
 ```
+
+
 
 Next, you create an ´ui´ and a ´server´ part of your app
 ```r
@@ -89,6 +89,15 @@ server <- function(input, output) {
             axis.text.y = element_text(size = 18),
             axis.text.x = element_text(size = 18))
   })
+```
+
+
+You can also add some more specific statistical details in the app if you wish.
+In my case, I chose to add the correlation coefficient between x and y
+coupled with the means of the respective variable. Lastly, I
+added summary statistics of a linear regression between x and y (see the
+code below).
+r ´´´
   # Create text output stating the correlation between the two ploted
   output$correlation <- renderText({
     r <- round(cor(df_wmc[, input$x], df_wmc[, input$y], use = "pairwise"), 3)
@@ -124,3 +133,6 @@ head(df)
 
 ### The results
 Here is a link to the final [app](https://dfellman.shinyapps.io/df_test/)
+
+
+I hope you liked this tutorial.
