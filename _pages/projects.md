@@ -5,5 +5,7 @@ title: "Projects"
 author_profile: true
 ---
 
-### Here I will provide you with a set of cool projects I have been working on
+### R
 * [Examining the effects of cognitive training using Bayesian statistics](https://danielfellman.github.io/projects/bayes)
+
+### Python
