@@ -6,6 +6,6 @@ author_profile: true
 ---
 [papp](https://github.com/danielwarna/braintrain/blob/gh-pages/Soveri_et_al_2017_Working_memory_training_revisited.pdf?raw=true)
 
-[https://github.com/danielfellman/danielfellman.github.io/blob/master/docs/CV_Fellman2.pdf/]
+[mamm](https://github.com/danielfellman/danielfellman.github.io/blob/master/docs/CV_Fellman2.pdf/)
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/cv.jpg" alt="CV">
