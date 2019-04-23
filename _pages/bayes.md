@@ -8,6 +8,13 @@ title: "Bayesian inference in R"
 <small> For computing the BFs, I have been using the "BayesFactor" package developed by Richard Morey. It allows one compute the BFs easily with fairly minimal effort. <small>
 </p>
 ```r
-# Import Libraries
-library(BayesFactor)
+# Libraries
+library(shiny)
+library(ggplot2)
+library(rsconnect)
+library(tidyverse)
+
+# Load dataframe
+df_wmc <- read.csv("df_wmc.csv")
 ```
+<br>
