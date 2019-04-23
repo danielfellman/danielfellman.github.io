@@ -4,7 +4,8 @@ permalink: /cv/
 title: "CV"
 author_profile: true
 ---
-[https://lapmeeting.fi/gallery/](https://lapmeeting.fi/gallery/)
-(CV)[https://github.com/danielfellman/danielfellman.github.io/blob/master/docs/CV_Fellman2.pdf/]
+[papp](https://github.com/danielwarna/braintrain/blob/gh-pages/Soveri_et_al_2017_Working_memory_training_revisited.pdf?raw=true)
+
+[https://github.com/danielfellman/danielfellman.github.io/blob/master/docs/CV_Fellman2.pdf/]
 
 <img src="{{ site.url }}{{ site.baseurl }}/images/cv.jpg" alt="CV">
