@@ -6,6 +6,6 @@ author_profile: true
 ---
 
 ### R
-* [Examining the effects of cognitive training using Bayesian statistics](http://rpubs.com/dfellman/490751)
+* [Examining the effects of cognitive training using Bayesian statistics](http://rpubs.com/dfellman/bayes)
 
 ### Python
