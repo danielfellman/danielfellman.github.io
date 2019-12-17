@@ -8,7 +8,8 @@ main:
     url: /publ/
   - title: "Projects"
     url: /projects/
-
+  - title: "Presentations"
+    url: /presentations/
 
 
   # - title: "About"
