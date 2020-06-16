@@ -7,9 +7,9 @@ author_profile: true
 
 * Lincke, A., **Fellman, D**., Jansen, M., Milrad, M., Berge. E., & Jonsson, B. (2019). Correlating working memory capacity with learner’s study behavior in a web-based learning platform. *27th International Conference on Computers in Education: Taiwan: Asian-Pacific Society for Computers in Education*.
 
-* Forsberg, A., **Fellman, D**., Laine, M., Johnson, W., & Logie, R. H. (2020). Strategy mediation in working memory training in younger and older adults. *Quarterly Journal of Experimental Psychology*. doi:10.1177/1747021820915107 [Epub ahead of print] [Link](https://journals.sagepub.com/doi/abs/10.1177/1747021820915107).[Epub ahead of print]
+* Forsberg, A., **Fellman, D**., Laine, M., Johnson, W., & Logie, R. H. (2020). Strategy mediation in working memory training in younger and older adults. *Quarterly Journal of Experimental Psychology*. doi:10.1177/1747021820915107 [Link](https://journals.sagepub.com/doi/abs/10.1177/1747021820915107). [Epub ahead of print]
 
-* **Fellman, D**., Lincke, A., Berge, E., & Jonsson, A. (2020). Predicting visuospatial and verbal working memory by individual differences in e-learning activities. *Frontiers in Education: Digital Education*, 31(1), 1-11. doi:10.3389/feduc.2020.00022 [Link](https://www.frontiersin.org/articles/10.3389/feduc.2020.00022/full).[Epub ahead of print]
+* **Fellman, D**., Lincke, A., Berge, E., & Jonsson, A. (2020). Predicting visuospatial and verbal working memory by individual differences in e-learning activities. *Frontiers in Education: Digital Education*, 31(1), 1-11. doi:10.3389/feduc.2020.00022 [Link](https://www.frontiersin.org/articles/10.3389/feduc.2020.00022/full).
 
 * **Fellman, D**., Salmi, J., Ritakallio, L., Ellfolk, U., Rinne. J.O., & Laine, M. (2018). Training working memory updating in Parkinson’s disease: A randomized controlled trial. *Neuropsychological Rehabilitation*. 31(4), 673-708. doi:10.1080/09602011.2018.1489860 [Link](https://www.tandfonline.com/doi/abs/10.1080/09602011.2018.1489860)
 
