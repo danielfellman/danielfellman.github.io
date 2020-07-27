@@ -5,6 +5,8 @@ title: "Publications"
 author_profile: true
 ---
 
+*	**Fellman, D**., Lincke, A., & Jonsson, B (in press). Do individual differences in cognition and personality predict retrieval practice activities on MOOCs? *Frontiers in Psychology* 
+
 * Lincke, A., **Fellman, D**., Jansen, M., Milrad, M., Berge. E., & Jonsson, B. (2019). Correlating working memory capacity with learner’s study behavior in a web-based learning platform. *27th International Conference on Computers in Education: Taiwan: Asian-Pacific Society for Computers in Education*.
 
 * Forsberg, A., **Fellman, D**., Laine, M., Johnson, W., & Logie, R. H. (2020). Strategy mediation in working memory training in younger and older adults. *Quarterly Journal of Experimental Psychology*. doi:10.1177/1747021820915107 [Link](https://journals.sagepub.com/doi/abs/10.1177/1747021820915107). [Epub ahead of print]
