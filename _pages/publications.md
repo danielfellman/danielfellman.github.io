@@ -5,7 +5,9 @@ title: "Publications"
 author_profile: true
 ---
 
-*	**Fellman, D**., Lincke, A., & Jonsson, B (in press). Do individual differences in cognition and personality predict retrieval practice activities on MOOCs? *Frontiers in Psychology* 
+* Salmitaival, J., Ritakallio, L., **Fellman, D**., Ellfolk, U., Rinne, J. O., & Laine, M (in press). Disentangling the role of working memory in Parkinson's disease. *Frontiers in Human Neuroscience*
+
+*	**Fellman, D**., Lincke, A., & Jonsson, B (2020). Do individual differences in cognition and personality predict retrieval practice activities on MOOCs? *Frontiers in Psychology, 11*(2076). doi: 10.3389/fpsyg.2020.02076
 
 * Lincke, A., **Fellman, D**., Jansen, M., Milrad, M., Berge. E., & Jonsson, B. (2019). Correlating working memory capacity with learner’s study behavior in a web-based learning platform. *27th International Conference on Computers in Education: Taiwan: Asian-Pacific Society for Computers in Education*.
 
@@ -15,7 +17,7 @@ author_profile: true
 
 * **Fellman, D**., Salmi, J., Ritakallio, L., Ellfolk, U., Rinne. J.O., & Laine, M. (2018). Training working memory updating in Parkinson’s disease: A randomized controlled trial. *Neuropsychological Rehabilitation*. 31(4), 673-708. doi:10.1080/09602011.2018.1489860 [Link](https://www.tandfonline.com/doi/abs/10.1080/09602011.2018.1489860)
 
-* **Fellman, D**., Jylkka, J., Waris, O., Soveri, A., Ritakallio, L., Haga, S., Salmi, J., Nyman T.J., & Laine, M. (2019) The role of strategy use in working memory training outcomes. *Journal of Memory and Language*. doi:10.1016/j.jml.2019.104064 [Link](https://www.sciencedirect.com/science/article/pii/S0749596X19300968).[Epub ahead of print]
+* **Fellman, D**., Jylkka, J., Waris, O., Soveri, A., Ritakallio, L., Haga, S., Salmi, J., Nyman T.J., & Laine, M. (2019) The role of strategy use in working memory training outcomes. *Journal of Memory and Language, 119*(104064). doi:10.1016/j.jml.2019.104064 [Link](https://www.sciencedirect.com/science/article/pii/S0749596X19300968).
 
 * Laine, M., **Fellman, D**., Waris, O., & Nyman, T. J. (2018). The early effects of external and internal strategies on working memory updating training. *Scientific Reports,* 39. doi:10.1038/s41598-018-22396-5 [Link](https://www.nature.com/articles/s41598-018-22396-5)
 
