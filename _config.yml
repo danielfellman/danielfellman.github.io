@@ -105,9 +105,9 @@ analytics:
 author:
   name             : "Daniel Fellman"
   avatar           :  "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              :  "I am a postdoctoral researcher (PhD in Cognitive Psychology) at Umeå University (Sweden) with a keen interest in predictive modeling."
+  bio              :  "I am a postdoctoral researcher (PhD in Cognitive Psychology) at Karolinska Institute (Sweden, Stockholm) with a keen interest in predictive modeling."
   location         : "Sweden"
-  email            : "daniel.fellman@umu.se"
+  email            : "daniel.fellman@ki.se"
   github           : "danielfellman"
   links:
     - label: "Email"
