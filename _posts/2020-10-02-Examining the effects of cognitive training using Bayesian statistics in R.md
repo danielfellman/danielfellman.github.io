@@ -1,5 +1,5 @@
 ---
-title: <a href="http://rpubs.com/dfellman/houseprices/" target="_blank">Predicting house prices using machine learning</a>
+title: <a href="http://rpubs.com/dfellman/houseprices" target="_blank">Predicting house prices using machine learning</a>
 date: "2020-10-02"
 #excerpt: ""
 ---
