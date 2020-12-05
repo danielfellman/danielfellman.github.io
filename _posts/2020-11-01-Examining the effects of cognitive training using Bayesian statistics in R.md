@@ -6,4 +6,4 @@ tags: [R, data science]
 link: http://rpubs.com/dfellman/bayes"
 href: http://rpubs.com/dfellman/bayes
 ---
-<a href="https://www.thesitewizard.com/" target="_blank">thesitewizard.com</a>
+<a href="https://www.thesitewizard.com/" target="_blank">PAPPMIN</a>
