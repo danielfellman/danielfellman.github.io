@@ -436,3 +436,13 @@
     }
   }
 }
+
+/* Add the rule for non-archived subtitle */
+.archive__subtitle:not(.archive__subtitle--archived) {
+  opacity: 1;
+}
+
+/* Add the rule for non-archived item title */
+.archive__item-title:not(.archive__item-title--archived) a + a {
+  opacity: 1;
+}
