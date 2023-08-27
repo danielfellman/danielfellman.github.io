@@ -3,7 +3,7 @@ main:
   - title: "About"
     url: /about/
   - title: "CV"
-    url: /cv/
+    url: /online-cv/  # Update this URL to the new permalink
   - title: "Publications"
     url: /publ/
   - title: "Projects"
