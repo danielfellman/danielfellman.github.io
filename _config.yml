@@ -104,7 +104,7 @@ analytics:
 # Site Author
 author:
   name             : "Daniel Fellman"
-  avatar           :  "/images/bio.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           :  "/images/daniel_foto_2024.jpg" # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              :  "I am a Data Analyst (PhD in Cognitive Psychology, Åbo Akademi University, Finland, Turku) with a keen interest in predictive modeling."
   location         : "Sweden"
   email            : "daniel.fellman@ki.se"
